@@ -1,0 +1,45 @@
+
+td{ margin: 0;}
+tr{margin: 0;}
+table{height: 98vh; width: 100%; border:0 ; }
+.gugi-regular {
+    width:"100px" ;
+    font-family: "Gugi", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+  font-size: 32px; }
+
+  .QS { 
+    text-align: center;
+    font-size: 48px;
+    
+  }
+  body {background-color: #2C3C28; 
+    color: #FFFFFF;
+  }
+
+    .ach{
+      font-size: 24px;
+      text-align: center;
+    }
+    .topics{ 
+      font-size: 20px;
+      text-align: center;
+    }
+    .catalogo { 
+     font-size: 48px;
+     text-align: center;
+    }
+
+    .titulo{
+      font-size: 32px;
+      text-align: center;
+    }
+.inicial{
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+ 
